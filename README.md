@@ -3,7 +3,7 @@ e-mail phishing
 
 From: supports@secure-pay zipp.com
 
-To: sampath31@gmail.com
+To: manasareddy11@gmail.com
 
 Subject: ⚠ Urgent: Unusual Login Attempt on Your pay zipp Account
 
