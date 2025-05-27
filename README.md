@@ -1,7 +1,7 @@
 # phishing-e-mail
 e-mail phishing
 
-From: supports@secure-pay zipp.com
+From: supports@secure-payzipp.com
 
 To: manasareddy11@gmail.com
 
